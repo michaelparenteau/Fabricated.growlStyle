@@ -1,9 +1,5 @@
 ## Fabricated.growlStyle
 
-A custom growl style with a dark-blue fabric-like textured background. 
-
-### Here is screenshot of what it looks like
-
 ![Screenshot of the Fabricated.growlStyle theme](https://github.com/michaelparenteau/Fabricated.growlStyle/raw/master/Contents/Resources/images/fabricated-growlStyle.png)
 
 ## Usage
